@@ -1,0 +1,7 @@
+아이콘셋 : https://design.xwiki.org/xwiki/bin/view/Proposal/XWiki%20Icon%20Set
+
+해당 아이콘셋 페이지에서 아이콘 이름과 아이콘셋의 이름을 확인한 다음,
+
+{{velocity}}$services.icon.render('아이콘이름','아이콘셋이름'){{/velocity}} 와 같이 집어넣으면 된다.
+
+더 자세한 내용은 https://extensions.xwiki.org/xwiki/bin/view/Extension/Icon%20Theme%20Application 에서 확인.
