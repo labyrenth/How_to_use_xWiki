@@ -1,0 +1,9 @@
+(% class="box" style="width:500px" %)
+(((
+내용
+)))
+
+(% class="table-bordered" style="width:500px" %)
+(((
+도 박스형태. 다른거라면 table-bordered는 하얀색이다.
+)))
